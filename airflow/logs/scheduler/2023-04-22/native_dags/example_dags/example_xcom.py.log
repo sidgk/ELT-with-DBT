@@ -1,0 +1,179 @@
+[2023-04-23T00:44:00.486+0200] {processor.py:153} INFO - Started process (PID=46765) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T00:44:00.489+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-23T00:44:00.489+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:44:00.489+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T00:44:00.531+0200] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T00:44:01.332+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:44:01.332+0200] {manager.py:504} INFO - Created Permission View: can delete on DAG:example_xcom
+[2023-04-23T00:44:01.340+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:44:01.340+0200] {manager.py:504} INFO - Created Permission View: can edit on DAG:example_xcom
+[2023-04-23T00:44:01.349+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:44:01.348+0200] {manager.py:504} INFO - Created Permission View: can read on DAG:example_xcom
+[2023-04-23T00:44:01.349+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:44:01.349+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T00:44:01.357+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:44:01.357+0200] {dag.py:2726} INFO - Creating ORM DAG for example_xcom
+[2023-04-23T00:44:01.364+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:44:01.364+0200] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-23T00:44:01.381+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.896 seconds
+[2023-04-23T00:46:02.647+0200] {processor.py:153} INFO - Started process (PID=46813) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T00:46:02.652+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-23T00:46:02.652+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:46:02.652+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T00:46:02.700+0200] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T00:46:03.519+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:46:03.519+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T00:46:03.534+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:46:03.534+0200] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-23T00:46:03.551+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.905 seconds
+[2023-04-23T00:48:01.870+0200] {processor.py:153} INFO - Started process (PID=46859) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T00:48:01.873+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-23T00:48:01.873+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:48:01.873+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T00:48:01.913+0200] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T00:48:02.702+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:48:02.701+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T00:48:02.717+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:48:02.717+0200] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-23T00:48:02.734+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.865 seconds
+[2023-04-23T00:50:04.698+0200] {processor.py:153} INFO - Started process (PID=46905) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T00:50:04.701+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-23T00:50:04.701+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:50:04.701+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T00:50:04.741+0200] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T00:50:05.406+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:50:05.405+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T00:50:05.421+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:50:05.421+0200] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-23T00:50:05.437+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.740 seconds
+[2023-04-23T00:52:18.406+0200] {processor.py:153} INFO - Started process (PID=46966) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T00:52:18.409+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-23T00:52:18.410+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:52:18.410+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T00:52:18.455+0200] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T00:52:19.526+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:52:19.526+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T00:52:19.544+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:52:19.544+0200] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-23T00:52:19.564+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 1.158 seconds
+[2023-04-23T00:54:19.678+0200] {processor.py:153} INFO - Started process (PID=47031) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T00:54:19.681+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-23T00:54:19.682+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:54:19.682+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T00:54:19.728+0200] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T00:54:20.422+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:54:20.422+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T00:54:20.436+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:54:20.436+0200] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-23T00:54:20.452+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.774 seconds
+[2023-04-23T00:56:15.041+0200] {processor.py:153} INFO - Started process (PID=47080) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T00:56:15.047+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-23T00:56:15.048+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:56:15.048+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T00:56:15.109+0200] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T00:56:15.907+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:56:15.907+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T00:56:15.921+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:56:15.920+0200] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-23T00:56:15.937+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.897 seconds
+[2023-04-23T00:58:28.586+0200] {processor.py:153} INFO - Started process (PID=47133) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T00:58:28.590+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-23T00:58:28.591+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:58:28.591+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T00:58:28.649+0200] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T00:58:29.570+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:58:29.569+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T00:58:29.588+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:58:29.587+0200] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-23T00:58:29.609+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 1.024 seconds
+[2023-04-23T01:00:33.320+0200] {processor.py:153} INFO - Started process (PID=47180) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:00:33.324+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-23T01:00:33.325+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:00:33.325+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:00:33.366+0200] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:00:34.051+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:00:34.050+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:00:34.066+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:00:34.066+0200] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-23T01:00:34.086+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.767 seconds
+[2023-04-23T01:02:51.921+0200] {processor.py:153} INFO - Started process (PID=47227) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:02:51.926+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-23T01:02:51.928+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:02:51.927+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:02:52.006+0200] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:02:52.712+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:02:52.712+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:02:52.727+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:02:52.727+0200] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-23T01:02:52.744+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.824 seconds
+[2023-04-23T01:04:50.954+0200] {processor.py:153} INFO - Started process (PID=47276) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:04:50.957+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-23T01:04:50.957+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:04:50.957+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:04:51.002+0200] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:04:51.689+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:04:51.689+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:04:51.703+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:04:51.703+0200] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-23T01:04:51.720+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.766 seconds
+[2023-04-23T01:07:19.821+0200] {processor.py:153} INFO - Started process (PID=47403) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:07:19.825+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-23T01:07:19.825+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:07:19.825+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:07:19.914+0200] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:07:20.665+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:07:20.665+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:07:20.680+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:07:20.680+0200] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-23T01:07:20.700+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.880 seconds
+[2023-04-23T01:09:52.316+0200] {processor.py:153} INFO - Started process (PID=47633) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:09:52.320+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-23T01:09:52.320+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:09:52.320+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:09:52.404+0200] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:09:53.052+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:09:53.052+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:09:53.065+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:09:53.065+0200] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-23T01:09:53.081+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.765 seconds
+[2023-04-23T01:12:08.504+0200] {processor.py:153} INFO - Started process (PID=47680) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:12:08.508+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-23T01:12:08.508+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:12:08.508+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:12:08.583+0200] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:12:09.197+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:12:09.197+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:12:09.212+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:12:09.212+0200] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-23T01:12:09.228+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.725 seconds
+[2023-04-23T01:14:08.535+0200] {processor.py:153} INFO - Started process (PID=47727) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:14:08.539+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-23T01:14:08.540+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:14:08.539+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:14:08.619+0200] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:14:09.295+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:14:09.295+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:14:09.308+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:14:09.308+0200] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-23T01:14:09.325+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.790 seconds
+[2023-04-23T01:16:15.317+0200] {processor.py:153} INFO - Started process (PID=47773) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:16:15.320+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-23T01:16:15.321+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:16:15.321+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:16:15.392+0200] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:16:16.010+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:16:16.010+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:16:16.026+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:16:16.026+0200] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-23T01:16:16.043+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.727 seconds
+[2023-04-23T01:18:15.482+0200] {processor.py:153} INFO - Started process (PID=47819) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:18:15.485+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-23T01:18:15.486+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:18:15.486+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:18:15.574+0200] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:18:16.204+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:18:16.204+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:18:16.224+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:18:16.224+0200] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-23T01:18:16.243+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.762 seconds
+[2023-04-23T01:20:20.992+0200] {processor.py:153} INFO - Started process (PID=47864) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:20:20.996+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-23T01:20:20.996+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:20:20.996+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:20:21.092+0200] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:20:21.846+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:20:21.845+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:20:21.860+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:20:21.860+0200] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-23T01:20:21.878+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.887 seconds
+[2023-04-23T01:22:25.056+0200] {processor.py:153} INFO - Started process (PID=47911) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:22:25.059+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-23T01:22:25.060+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:22:25.060+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:22:25.131+0200] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:22:25.739+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:22:25.739+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:22:25.752+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:22:25.752+0200] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-23T01:22:25.769+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.713 seconds
+[2023-04-23T01:24:23.286+0200] {processor.py:153} INFO - Started process (PID=47961) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:24:23.289+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-23T01:24:23.290+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:24:23.290+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:24:23.360+0200] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:24:24.012+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:24:24.012+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:24:24.026+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:24:24.026+0200] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-23T01:24:24.044+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.759 seconds
+[2023-04-23T01:26:23.399+0200] {processor.py:153} INFO - Started process (PID=48028) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:26:23.401+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-23T01:26:23.402+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:26:23.402+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:26:23.473+0200] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:26:24.082+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:26:24.081+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:26:24.095+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:26:24.095+0200] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-23T01:26:24.111+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.713 seconds
+[2023-04-23T01:28:29.023+0200] {processor.py:153} INFO - Started process (PID=48074) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:28:29.027+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-23T01:28:29.028+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:28:29.028+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:28:29.125+0200] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:28:29.829+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:28:29.829+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:28:29.844+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:28:29.843+0200] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-23T01:28:29.862+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.840 seconds
+[2023-04-23T01:30:32.297+0200] {processor.py:153} INFO - Started process (PID=48122) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:30:32.300+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-23T01:30:32.301+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:30:32.300+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:30:32.384+0200] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:30:33.011+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:30:33.010+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:30:33.025+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:30:33.025+0200] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-23T01:30:33.043+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.746 seconds
+[2023-04-23T01:32:34.998+0200] {processor.py:153} INFO - Started process (PID=48170) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:32:35.002+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-23T01:32:35.002+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:32:35.002+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:32:35.095+0200] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:32:35.765+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:32:35.765+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:32:35.786+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:32:35.786+0200] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-23T01:32:35.808+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 0.810 seconds
+[2023-04-23T01:34:41.203+0200] {processor.py:153} INFO - Started process (PID=48219) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:34:41.209+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py for tasks to queue
+[2023-04-23T01:34:41.209+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:34:41.209+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:34:41.308+0200] {processor.py:753} INFO - DAG(s) dict_keys(['example_xcom']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py
+[2023-04-23T01:34:42.375+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:34:42.373+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:34:42.414+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:34:42.413+0200] {dag.py:3452} INFO - Setting next_dagrun for example_xcom to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-04-23T01:34:42.448+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/example_xcom.py took 1.246 seconds

@@ -1,0 +1,179 @@
+[2023-04-23T00:43:53.921+0200] {processor.py:153} INFO - Started process (PID=46763) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T00:43:53.924+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-04-23T00:43:53.924+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:43:53.924+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T00:43:53.944+0200] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T00:43:54.858+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:43:54.858+0200] {manager.py:504} INFO - Created Permission View: can edit on DAG:tutorial
+[2023-04-23T00:43:54.866+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:43:54.866+0200] {manager.py:504} INFO - Created Permission View: can delete on DAG:tutorial
+[2023-04-23T00:43:54.872+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:43:54.871+0200] {manager.py:504} INFO - Created Permission View: can read on DAG:tutorial
+[2023-04-23T00:43:54.872+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:43:54.872+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T00:43:54.880+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:43:54.880+0200] {dag.py:2726} INFO - Creating ORM DAG for tutorial
+[2023-04-23T00:43:54.894+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:43:54.894+0200] {dag.py:3452} INFO - Setting next_dagrun for tutorial to 2023-04-21T22:43:54.887957+00:00, run_after=2023-04-22T22:43:54.887957+00:00
+[2023-04-23T00:43:54.912+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.992 seconds
+[2023-04-23T00:45:57.244+0200] {processor.py:153} INFO - Started process (PID=46811) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T00:45:57.248+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-04-23T00:45:57.249+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:45:57.249+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T00:45:57.273+0200] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T00:45:58.071+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:45:58.071+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T00:45:58.084+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:45:58.084+0200] {dag.py:3452} INFO - Setting next_dagrun for tutorial to 2023-04-21T22:45:58.084515+00:00, run_after=2023-04-22T22:45:58.084515+00:00
+[2023-04-23T00:45:58.110+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.867 seconds
+[2023-04-23T00:47:55.818+0200] {processor.py:153} INFO - Started process (PID=46857) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T00:47:55.821+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-04-23T00:47:55.822+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:47:55.822+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T00:47:55.843+0200] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T00:47:56.527+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:47:56.527+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T00:47:56.541+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:47:56.541+0200] {dag.py:3452} INFO - Setting next_dagrun for tutorial to 2023-04-21T22:47:56.541414+00:00, run_after=2023-04-22T22:47:56.541414+00:00
+[2023-04-23T00:47:56.560+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.743 seconds
+[2023-04-23T00:49:58.984+0200] {processor.py:153} INFO - Started process (PID=46903) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T00:49:58.987+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-04-23T00:49:58.987+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:49:58.987+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T00:49:59.005+0200] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T00:49:59.674+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:49:59.674+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T00:49:59.689+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:49:59.689+0200] {dag.py:3452} INFO - Setting next_dagrun for tutorial to 2023-04-21T22:49:59.689129+00:00, run_after=2023-04-22T22:49:59.689129+00:00
+[2023-04-23T00:49:59.709+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.726 seconds
+[2023-04-23T00:52:12.348+0200] {processor.py:153} INFO - Started process (PID=46964) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T00:52:12.352+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-04-23T00:52:12.352+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:52:12.352+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T00:52:12.374+0200] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T00:52:13.176+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:52:13.176+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T00:52:13.191+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:52:13.191+0200] {dag.py:3452} INFO - Setting next_dagrun for tutorial to 2023-04-21T22:52:13.191124+00:00, run_after=2023-04-22T22:52:13.191124+00:00
+[2023-04-23T00:52:13.209+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.862 seconds
+[2023-04-23T00:54:13.517+0200] {processor.py:153} INFO - Started process (PID=47025) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T00:54:13.521+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-04-23T00:54:13.521+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:54:13.521+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T00:54:13.544+0200] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T00:54:14.397+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:54:14.396+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T00:54:14.420+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:54:14.420+0200] {dag.py:3452} INFO - Setting next_dagrun for tutorial to 2023-04-21T22:54:14.419905+00:00, run_after=2023-04-22T22:54:14.419905+00:00
+[2023-04-23T00:54:14.451+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.935 seconds
+[2023-04-23T00:56:08.768+0200] {processor.py:153} INFO - Started process (PID=47078) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T00:56:08.772+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-04-23T00:56:08.772+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:56:08.772+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T00:56:08.790+0200] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T00:56:09.434+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:56:09.434+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T00:56:09.447+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:56:09.447+0200] {dag.py:3452} INFO - Setting next_dagrun for tutorial to 2023-04-21T22:56:09.447500+00:00, run_after=2023-04-22T22:56:09.447500+00:00
+[2023-04-23T00:56:09.484+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.716 seconds
+[2023-04-23T00:58:22.082+0200] {processor.py:153} INFO - Started process (PID=47130) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T00:58:22.086+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-04-23T00:58:22.087+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:58:22.087+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T00:58:22.128+0200] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T00:58:22.792+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:58:22.792+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T00:58:22.804+0200] {logging_mixin.py:137} INFO - [2023-04-23T00:58:22.804+0200] {dag.py:3452} INFO - Setting next_dagrun for tutorial to 2023-04-21T22:58:22.804565+00:00, run_after=2023-04-22T22:58:22.804565+00:00
+[2023-04-23T00:58:22.823+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.741 seconds
+[2023-04-23T01:00:27.518+0200] {processor.py:153} INFO - Started process (PID=47178) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:00:27.523+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-04-23T01:00:27.523+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:00:27.523+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:00:27.543+0200] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:00:28.324+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:00:28.324+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:00:28.338+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:00:28.338+0200] {dag.py:3452} INFO - Setting next_dagrun for tutorial to 2023-04-21T23:00:28.338528+00:00, run_after=2023-04-22T23:00:28.338528+00:00
+[2023-04-23T01:00:28.359+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.841 seconds
+[2023-04-23T01:02:46.146+0200] {processor.py:153} INFO - Started process (PID=47224) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:02:46.151+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-04-23T01:02:46.152+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:02:46.152+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:02:46.189+0200] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:02:46.889+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:02:46.889+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:02:46.902+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:02:46.902+0200] {dag.py:3452} INFO - Setting next_dagrun for tutorial to 2023-04-21T23:02:46.901998+00:00, run_after=2023-04-22T23:02:46.901998+00:00
+[2023-04-23T01:02:46.920+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.775 seconds
+[2023-04-23T01:04:45.305+0200] {processor.py:153} INFO - Started process (PID=47271) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:04:45.308+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-04-23T01:04:45.309+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:04:45.309+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:04:45.336+0200] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:04:46.041+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:04:46.041+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:04:46.054+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:04:46.054+0200] {dag.py:3452} INFO - Setting next_dagrun for tutorial to 2023-04-21T23:04:46.054164+00:00, run_after=2023-04-22T23:04:46.054164+00:00
+[2023-04-23T01:04:46.071+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.767 seconds
+[2023-04-23T01:07:00.350+0200] {processor.py:153} INFO - Started process (PID=47380) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:07:00.356+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-04-23T01:07:00.356+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:07:00.356+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:07:00.389+0200] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:07:01.524+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:07:01.524+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:07:01.546+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:07:01.546+0200] {dag.py:3452} INFO - Setting next_dagrun for tutorial to 2023-04-21T23:07:01.545849+00:00, run_after=2023-04-22T23:07:01.545849+00:00
+[2023-04-23T01:07:01.573+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 1.224 seconds
+[2023-04-23T01:09:45.534+0200] {processor.py:153} INFO - Started process (PID=47628) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:09:45.540+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-04-23T01:09:45.541+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:09:45.541+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:09:45.571+0200] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:09:46.523+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:09:46.522+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:09:46.543+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:09:46.543+0200] {dag.py:3452} INFO - Setting next_dagrun for tutorial to 2023-04-21T23:09:46.542904+00:00, run_after=2023-04-22T23:09:46.542904+00:00
+[2023-04-23T01:09:46.567+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 1.034 seconds
+[2023-04-23T01:12:02.836+0200] {processor.py:153} INFO - Started process (PID=47678) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:12:02.840+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-04-23T01:12:02.841+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:12:02.841+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:12:02.862+0200] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:12:03.535+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:12:03.534+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:12:03.548+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:12:03.548+0200] {dag.py:3452} INFO - Setting next_dagrun for tutorial to 2023-04-21T23:12:03.548335+00:00, run_after=2023-04-22T23:12:03.548335+00:00
+[2023-04-23T01:12:03.565+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.729 seconds
+[2023-04-23T01:14:02.133+0200] {processor.py:153} INFO - Started process (PID=47724) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:14:02.137+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-04-23T01:14:02.137+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:14:02.137+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:14:02.164+0200] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:14:02.805+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:14:02.805+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:14:02.819+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:14:02.819+0200] {dag.py:3452} INFO - Setting next_dagrun for tutorial to 2023-04-21T23:14:02.819015+00:00, run_after=2023-04-22T23:14:02.819015+00:00
+[2023-04-23T01:14:02.836+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.704 seconds
+[2023-04-23T01:16:09.496+0200] {processor.py:153} INFO - Started process (PID=47771) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:16:09.501+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-04-23T01:16:09.502+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:16:09.502+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:16:09.528+0200] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:16:10.319+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:16:10.319+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:16:10.335+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:16:10.335+0200] {dag.py:3452} INFO - Setting next_dagrun for tutorial to 2023-04-21T23:16:10.335248+00:00, run_after=2023-04-22T23:16:10.335248+00:00
+[2023-04-23T01:16:10.353+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.858 seconds
+[2023-04-23T01:18:09.937+0200] {processor.py:153} INFO - Started process (PID=47817) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:18:09.940+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-04-23T01:18:09.940+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:18:09.940+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:18:09.958+0200] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:18:10.602+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:18:10.602+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:18:10.615+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:18:10.614+0200] {dag.py:3452} INFO - Setting next_dagrun for tutorial to 2023-04-21T23:18:10.614857+00:00, run_after=2023-04-22T23:18:10.614857+00:00
+[2023-04-23T01:18:10.632+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.696 seconds
+[2023-04-23T01:20:13.894+0200] {processor.py:153} INFO - Started process (PID=47862) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:20:13.897+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-04-23T01:20:13.897+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:20:13.897+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:20:13.917+0200] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:20:14.610+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:20:14.610+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:20:14.623+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:20:14.623+0200] {dag.py:3452} INFO - Setting next_dagrun for tutorial to 2023-04-21T23:20:14.623459+00:00, run_after=2023-04-22T23:20:14.623459+00:00
+[2023-04-23T01:20:14.640+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.747 seconds
+[2023-04-23T01:22:19.664+0200] {processor.py:153} INFO - Started process (PID=47909) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:22:19.667+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-04-23T01:22:19.668+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:22:19.667+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:22:19.686+0200] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:22:20.351+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:22:20.351+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:22:20.365+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:22:20.365+0200] {dag.py:3452} INFO - Setting next_dagrun for tutorial to 2023-04-21T23:22:20.365166+00:00, run_after=2023-04-22T23:22:20.365166+00:00
+[2023-04-23T01:22:20.383+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.720 seconds
+[2023-04-23T01:24:17.364+0200] {processor.py:153} INFO - Started process (PID=47959) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:24:17.367+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-04-23T01:24:17.367+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:24:17.367+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:24:17.387+0200] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:24:18.072+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:24:18.072+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:24:18.085+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:24:18.085+0200] {dag.py:3452} INFO - Setting next_dagrun for tutorial to 2023-04-21T23:24:18.085669+00:00, run_after=2023-04-22T23:24:18.085669+00:00
+[2023-04-23T01:24:18.102+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.739 seconds
+[2023-04-23T01:26:17.373+0200] {processor.py:153} INFO - Started process (PID=48026) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:26:17.376+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-04-23T01:26:17.376+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:26:17.376+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:26:17.399+0200] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:26:18.261+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:26:18.261+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:26:18.276+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:26:18.275+0200] {dag.py:3452} INFO - Setting next_dagrun for tutorial to 2023-04-21T23:26:18.275852+00:00, run_after=2023-04-22T23:26:18.275852+00:00
+[2023-04-23T01:26:18.293+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.921 seconds
+[2023-04-23T01:28:22.939+0200] {processor.py:153} INFO - Started process (PID=48072) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:28:22.942+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-04-23T01:28:22.943+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:28:22.943+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:28:22.966+0200] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:28:23.675+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:28:23.675+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:28:23.692+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:28:23.692+0200] {dag.py:3452} INFO - Setting next_dagrun for tutorial to 2023-04-21T23:28:23.692595+00:00, run_after=2023-04-22T23:28:23.692595+00:00
+[2023-04-23T01:28:23.712+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.774 seconds
+[2023-04-23T01:30:27.429+0200] {processor.py:153} INFO - Started process (PID=48120) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:30:27.432+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-04-23T01:30:27.432+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:30:27.432+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:30:27.452+0200] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:30:28.097+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:30:28.096+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:30:28.111+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:30:28.110+0200] {dag.py:3452} INFO - Setting next_dagrun for tutorial to 2023-04-21T23:30:28.110771+00:00, run_after=2023-04-22T23:30:28.110771+00:00
+[2023-04-23T01:30:28.126+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.698 seconds
+[2023-04-23T01:32:28.823+0200] {processor.py:153} INFO - Started process (PID=48167) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:32:28.828+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-04-23T01:32:28.829+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:32:28.829+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:32:28.854+0200] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:32:29.619+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:32:29.619+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:32:29.638+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:32:29.638+0200] {dag.py:3452} INFO - Setting next_dagrun for tutorial to 2023-04-21T23:32:29.638497+00:00, run_after=2023-04-22T23:32:29.638497+00:00
+[2023-04-23T01:32:29.660+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.838 seconds
+[2023-04-23T01:34:35.076+0200] {processor.py:153} INFO - Started process (PID=48217) to work on /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:34:35.081+0200] {processor.py:743} INFO - Processing file /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-04-23T01:34:35.082+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:34:35.081+0200] {dagbag.py:532} INFO - Filling up the DagBag from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:34:35.105+0200] {processor.py:753} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py
+[2023-04-23T01:34:35.881+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:34:35.881+0200] {dag.py:2705} INFO - Sync 1 DAGs
+[2023-04-23T01:34:35.896+0200] {logging_mixin.py:137} INFO - [2023-04-23T01:34:35.896+0200] {dag.py:3452} INFO - Setting next_dagrun for tutorial to 2023-04-21T23:34:35.896484+00:00, run_after=2023-04-22T23:34:35.896484+00:00
+[2023-04-23T01:34:35.913+0200] {processor.py:175} INFO - Processing /Users/siddalingkattimani/dbt_env/lib/python3.11/site-packages/airflow/example_dags/tutorial.py took 0.838 seconds

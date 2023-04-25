@@ -1,0 +1,23 @@
+[2023-04-24T22:00:27.453+0200] {taskinstance.py:1090} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: sumup_data_pipeline.upload_stores scheduled__2023-04-24T18:00:00+00:00 [queued]>
+[2023-04-24T22:00:27.461+0200] {taskinstance.py:1090} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: sumup_data_pipeline.upload_stores scheduled__2023-04-24T18:00:00+00:00 [queued]>
+[2023-04-24T22:00:27.461+0200] {taskinstance.py:1288} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-24T22:00:27.461+0200] {taskinstance.py:1289} INFO - Starting attempt 1 of 2
+[2023-04-24T22:00:27.461+0200] {taskinstance.py:1290} INFO - 
+--------------------------------------------------------------------------------
+[2023-04-24T22:00:27.470+0200] {taskinstance.py:1309} INFO - Executing <Task(PythonOperator): upload_stores> on 2023-04-24 18:00:00+00:00
+[2023-04-24T22:00:27.473+0200] {standard_task_runner.py:55} INFO - Started process 6343 to run task
+[2023-04-24T22:00:27.479+0200] {standard_task_runner.py:82} INFO - Running: ['airflow', 'tasks', 'run', 'sumup_data_pipeline', 'upload_stores', 'scheduled__2023-04-24T18:00:00+00:00', '--job-id', '44', '--raw', '--subdir', 'DAGS_FOLDER/gcp_airflow.py', '--cfg-path', '/var/folders/4d/d2yhck4j3t317qy3gsb6wmr00000gp/T/tmp_7mvicsm']
+[2023-04-24T22:00:27.481+0200] {standard_task_runner.py:83} INFO - Job 44: Subtask upload_stores
+[2023-04-24T22:00:27.537+0200] {task_command.py:389} INFO - Running <TaskInstance: sumup_data_pipeline.upload_stores scheduled__2023-04-24T18:00:00+00:00 [running]> on host admins-air
+[2023-04-24T22:00:27.573+0200] {taskinstance.py:1516} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=sumup_data_pipeline
+AIRFLOW_CTX_TASK_ID=upload_stores
+AIRFLOW_CTX_EXECUTION_DATE=2023-04-24T18:00:00+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2023-04-24T18:00:00+00:00
+[2023-04-24T22:00:28.032+0200] {python.py:177} INFO - Done. Returned value was: None
+[2023-04-24T22:00:28.039+0200] {taskinstance.py:1327} INFO - Marking task as SUCCESS. dag_id=sumup_data_pipeline, task_id=upload_stores, execution_date=20230424T180000, start_date=20230424T200027, end_date=20230424T200028
+[2023-04-24T22:00:28.122+0200] {local_task_job.py:212} INFO - Task exited with return code 0
+[2023-04-24T22:00:28.143+0200] {taskinstance.py:2596} INFO - 0 downstream tasks scheduled from follow-on schedule check
