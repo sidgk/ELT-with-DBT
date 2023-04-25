@@ -34,7 +34,7 @@ I have devided the project into multiple steps. I am using **Google Cloud Platfo
   * Here i have written python script to load data from my laptop to the GCS bucket(Bucket is defined in congig.ini file) , the source of the data can be changed to anything in the config/config.ini file. **upload_csv_gcs.py** is the python file with hardcoaded source and destination bucket. **config_read_upload_csv_gcs.py** contains the same script but it will read the credentials and paths from config.ini file.
   * First I have created three folders called as device_info, stores_info and transactions to store device.csv, store.csv and transactions.csv under respective folders. 
   * In development environment we might be consuming this source data from any message queue like **Kafka**, **SQS** or extracting from some **third party API's**. Let's say we are extracting the transaction data every 2 hours from kafka queue. I will create subfolders under these main(device_info, stores_info and transactions) folders for respective date and within these subfolders I will again create folders called hourly_folders for every extraction(2 hours) i.e. i will be having 12 folders within every date folder and store my csv's or json files under this hourly folders.
-  Screenshot attached for reference.
+  Screenshots attached for reference.
   
   ![Screenshot 2023-04-25 at 01 37 07](https://user-images.githubusercontent.com/36684754/234170747-8a55c6b7-e9df-4842-9ef5-3aced0dab51d.png)
   
@@ -55,6 +55,8 @@ I have devided the project into multiple steps. I am using **Google Cloud Platfo
   * Dimensional modeling is one of many data modeling techniques used to organize and present data for analytics.
   * The goal of dimensional modeling is to take raw data and transform it into Fact and Dimension tables that represent the business.
   * Why am i using this approach? Couple of main benefits are ** Simpler data model for analytics, Dimensions can be easily reused and Faster data retrieval**
+  
+  <img width="833" alt="Screenshot 2023-04-25 at 12 57 36" src="https://user-images.githubusercontent.com/36684754/234257159-a588f14e-21a5-4afa-ac9d-bba2c8e7756a.png">
   
   ![Screenshot 2023-04-25 at 02 20 13](https://user-images.githubusercontent.com/36684754/234171024-d9e39c3d-780d-4615-8dc5-ee2d2b1b4a36.png)
   
