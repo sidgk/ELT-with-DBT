@@ -1,0 +1,68 @@
+store_typology,store_country,avg_transacted_amount
+Beauty,Austria,584.75
+Beauty,Brazil,435
+Beauty,Ireland,558
+Beauty,Italy,452.5
+Beauty,Netherlands,373.67
+Beauty,New Zealand,542.67
+Beauty,Nigeria,442.38
+Beauty,Norway,733
+Beauty,South Africa,517.08
+Beauty,Vietnam,961
+Florist,Australia,372.14
+Florist,Austria,651.67
+Florist,Belgium,322.67
+Florist,Brazil,534.68
+Florist,China,522
+Florist,France,583.25
+Florist,Indonesia,380.85
+Florist,Singapore,456.86
+Florist,South Korea,578.5
+FoodTruck,Australia,594.6
+FoodTruck,Austria,422
+FoodTruck,Costa Rica,469.15
+FoodTruck,France,400.04
+FoodTruck,India,700.5
+FoodTruck,Nigeria,278.5
+FoodTruck,Ukraine,513.29
+FoodTruck,United Kingdom,270
+Hotel,Canada,350.07
+Hotel,China,515.86
+Hotel,Costa Rica,605.6
+Hotel,Ireland,558.45
+Hotel,Italy,872
+Hotel,Netherlands,672.17
+Hotel,New Zealand,613.2
+Hotel,United States,696
+Other,Germany,515.61
+Other,India,822
+Other,Indonesia,547
+Other,Peru,749
+Other,Singapore,282
+Other,Spain,442.67
+Press,Belgium,476.11
+Press,Brazil,571.08
+Press,Chile,101
+Press,Mexico,534.2
+Press,Netherlands,554.1
+Press,Peru,425.91
+Press,Poland,392.5
+Press,United Kingdom,399.5
+Restaurant,Austria,653
+Restaurant,Colombia,671.5
+Restaurant,India,540.33
+Restaurant,Ireland,136
+Restaurant,Netherlands,423.29
+Restaurant,Nigeria,610.8
+Restaurant,South Korea,222
+Restaurant,Sweden,413.57
+Service,Australia,375
+Service,Belgium,601.5
+Service,Brazil,894.5
+Service,Germany,346
+Service,India,477.5
+Service,Mexico,602
+Service,Singapore,443.33
+Service,South Africa,614.67
+Service,Ukraine,387.2
+Service,United Kingdom,563.38
