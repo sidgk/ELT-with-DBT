@@ -1,4 +1,4 @@
-# SumUp Case Study
+# Case Study
 
 Create End-to-End ELT Pipeline from Data Source to Data Warehouse using Python, SQL, and DBT.
 
